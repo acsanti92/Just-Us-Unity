@@ -1044,6 +1044,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   aimVirtualCamera: {fileID: 878608511}
+  normalSensitivity: 1
+  aimSensitivity: 0.5
 --- !u!1 &1764214107
 GameObject:
   m_ObjectHideFlags: 0
